@@ -8,11 +8,9 @@ We are all international students from Ethiopia, with different majors like comp
 
 # Back story of the idea
 
-Being new students in a totally new enviroment, it was always hard meeting and introducing ourselves. Plus we were also able to see the lack of a community just for college students(young people going through the process of being adults), a community where different students can connect, network, learn from each other and find likeminded people. 
-Through this platform we plan to create that community; with additional features that would ease the process of connecting. It would be a platform where students can create their own portfolio page that will be directed form their university ID card. Getting into this portfolio pafe students will be able to add their interest, different teams they want to create for let say a project, or even looking for partners for a startup project a student plans to start. 
+Being new students in a totally new environment, it was always hard meeting and introducing ourselves. Plus we were also able to see the lack of a community just for college students(young people going through the process of being adults), a community where different students can connect, network, learn from each other and find likeminded people.  We do have platforms like reddit but those platforms weren't restricted to students as a result many student won't feel that comfortable sharing their thoughts over there.
+Through this platform we plan to create, students will have a community of just students. By students I mean college students. A community of like-minded people going through the experience with different perspectives.
+It would be a platform where students can create their own portfolio page that will be directed from their university ID card. Getting into this portfolio page students will be able to add their interest, different teams they want to create for let say a project, or even looking for partners for a startup project a student plans to start.
 
 #features
-With additional features we planned out like:
-NFC based connecting feature, where students can connect with each other just by tapping phones; or even drop their resumes to recruters just be sliding their phone over a reader.
-Portfolio page that can be customazied to the end giving each student their voice, which would make the platform even more interesting.
-
+With additional features we planned out like: NFC based connecting feature, where students can connect with each other just by tapping phones; or even drop their resumes to recruiters just be sliding their phone over a reader. Portfolio page that can be customized to the end giving each student their voice, which would make the platform even more interesting.
